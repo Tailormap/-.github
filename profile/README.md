@@ -1,4 +1,4 @@
-⚠️ **We are in the process of migration repositories into this organisation** ⚠️
+⚠️ **We are in the process of migrating repositories to this organisation** ⚠️
 
 ---
 
